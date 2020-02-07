@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="31px" viewBox="0 0 24 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Touch sensor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#A4A4A4" offset="0%"></stop>
+            <stop stop-color="#767676" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#A4A4A4" offset="0%"></stop>
+            <stop stop-color="#8C8C8C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="40.6383115%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#A4A4A4" offset="0%"></stop>
+            <stop stop-color="#818181" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-4">
+            <stop stop-color="#FF8447" offset="0%"></stop>
+            <stop stop-color="#FF8447" offset="22.4028012%"></stop>
+            <stop stop-color="#D06B39" offset="57.4500711%"></stop>
+            <stop stop-color="#F37D43" offset="57.7184977%"></stop>
+            <stop stop-color="#FF8447" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-5">
+            <stop stop-color="#A55128" offset="0%"></stop>
+            <stop stop-color="#7F4527" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Touch-sensor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3,0.5 L21,0.5 C22.6568542,0.5 24,1.84314575 24,3.5 L24,12.4 C24,12.4552285 23.9552285,12.5 23.9,12.5 L23.1,12.5 C23.0447715,12.5 23,12.4552285 23,12.4 L23,4.5 C23,2.84314575 21.6568542,1.5 20,1.5 L4,1.5 C2.34314575,1.5 1,2.84314575 1,4.5 L1,12.4 C1,12.4552285 0.955228475,12.5 0.9,12.5 L0.1,12.5 C0.044771525,12.5 -2.09920381e-17,12.4552285 0,12.4 L0,3.5 C-2.02906125e-16,1.84314575 1.34314575,0.5 3,0.5 Z" id="Rectangle" fill="#EEEEEE"></path>
+        <rect id="Rectangle" fill="#A4A4A4" x="1.5" y="1.5" width="21" height="21" rx="3"></rect>
+        <path d="M5,5 L1.5,5 L1.5,4.5 C1.5,2.84314575 2.84314575,1.5 4.5,1.5 L5,1.5 L5,5 Z" id="Path" fill="url(#linearGradient-1)"></path>
+        <path d="M5,22.5 L1.5,22.5 L1.5,22 C1.5,20.3431458 2.84314575,19 4.5,19 L5,19 L5,22.5 Z" id="Path" fill="url(#linearGradient-1)" transform="translate(3.250000, 20.750000) rotate(-90.000000) translate(-3.250000, -20.750000) "></path>
+        <path d="M22.5,22.5 L19,22.5 L19,22 C19,20.3431458 20.3431458,19 22,19 L22.5,19 L22.5,22.5 Z" id="Path" fill="url(#linearGradient-1)" transform="translate(20.750000, 20.750000) rotate(-180.000000) translate(-20.750000, -20.750000) "></path>
+        <path d="M22.5,5 L19,5 L19,4.5 C19,2.84314575 20.3431458,1.5 22,1.5 L22.5,1.5 L22.5,5 Z" id="Path" fill="url(#linearGradient-1)" transform="translate(20.750000, 3.250000) rotate(-270.000000) translate(-20.750000, -3.250000) "></path>
+        <polygon id="Path" fill="url(#linearGradient-2)" points="5 5 5 19 1.5 19 1.5 5"></polygon>
+        <polygon id="Path" fill="url(#linearGradient-2)" transform="translate(12.000000, 20.750000) rotate(-90.000000) translate(-12.000000, -20.750000) " points="13.75 13.75 13.75 27.75 10.25 27.75 10.25 13.75"></polygon>
+        <polygon id="Path" fill="url(#linearGradient-2)" transform="translate(20.750000, 12.000000) rotate(-180.000000) translate(-20.750000, -12.000000) " points="22.5 5 22.5 19 19 19 19 5"></polygon>
+        <polygon id="Path" fill="url(#linearGradient-2)" transform="translate(12.000000, 3.250000) rotate(-270.000000) translate(-12.000000, -3.250000) " points="13.75 -3.75 13.75 10.25 10.25 10.25 10.25 -3.75"></polygon>
+        <path d="M8,22.5 L16,22.5 L16,30.5 C16,30.7761424 15.7761424,31 15.5,31 L8.5,31 C8.22385763,31 8,30.7761424 8,30.5 L8,22.5 L8,22.5 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+        <path d="M12,3 C12.5522847,3 13,3.44771525 13,4 L13.0008036,6.59083579 C15.2363281,7.00181381 16.9987704,8.76452695 17.4093471,11.0001919 L20,11 C20.5522847,11 21,11.4477153 21,12 C21,12.5522847 20.5522847,13 20,13 L17.4091642,13.0008036 C16.9982472,15.2359963 15.2359963,16.9982472 13.0008036,17.4091642 L13,20 C13,20.5522847 12.5522847,21 12,21 C11.4477153,21 11,20.5522847 11,20 L11.0001919,17.4093471 C8.76452695,16.9987704 7.00181381,15.2363281 6.59083579,13.0008036 L4,13 C3.44771525,13 3,12.5522847 3,12 C3,11.4477153 3.44771525,11 4,11 L6.59065287,11.0001919 C7.00129053,8.7641951 8.7641951,7.00129053 11.0001919,6.59065287 L11,4 C11,3.44771525 11.4477153,3 12,3 Z" id="Combined-Shape" fill="#181818"></path>
+        <path d="M12,3.25 C12.4142136,3.25 12.75,3.58578644 12.75,4 L12.7508807,7.05600776 C14.9114906,7.38140774 16.61917,9.0893706 16.9441429,11.2501204 L20,11.25 C20.4142136,11.25 20.75,11.5857864 20.75,12 C20.75,12.4142136 20.4142136,12.75 20,12.75 L16.9439922,12.7508807 C16.6186425,14.9111569 14.9111569,16.6186425 12.7508807,16.9439922 L12.75,20 C12.75,20.4142136 12.4142136,20.75 12,20.75 C11.5857864,20.75 11.25,20.4142136 11.25,20 L11.2501204,16.9441429 C9.0893706,16.61917 7.38140774,14.9114906 7.05600776,12.7508807 L4,12.75 C3.58578644,12.75 3.25,12.4142136 3.25,12 C3.25,11.5857864 3.58578644,11.25 4,11.25 L7.05585709,11.2501204 C7.38088019,9.08903689 9.08903689,7.38088019 11.2501204,7.05585709 L11.25,4 C11.25,3.58578644 11.5857864,3.25 12,3.25 Z" id="Combined-Shape" fill="url(#radialGradient-4)"></path>
+        <circle id="Oval" fill="#FF8447" cx="12" cy="12" r="3"></circle>
+        <rect id="Rectangle" fill="#FF8447" x="11.25" y="6" width="1.5" height="4"></rect>
+        <rect id="Rectangle" fill="#FF8447" transform="translate(12.000000, 16.000000) rotate(180.000000) translate(-12.000000, -16.000000) " x="11.25" y="14" width="1.5" height="4"></rect>
+        <rect id="Rectangle" fill="#FF8447" transform="translate(8.000000, 12.000000) rotate(270.000000) translate(-8.000000, -12.000000) " x="7.25" y="10" width="1.5" height="4"></rect>
+        <rect id="Rectangle" fill="#FF8447" transform="translate(16.000000, 12.000000) rotate(270.000000) translate(-16.000000, -12.000000) " x="15.25" y="10" width="1.5" height="4"></rect>
+        <path d="M11,10.5 L11,10 L11,10 C11.3333333,9.66666667 11.6666667,9.5 12,9.5 C12.3333333,9.5 12.6666667,9.66666667 13,10 L13,10.5 C13,10.7761424 13.2238576,11 13.5,11 L14,11 L14,11 C14.3333333,11.3333333 14.5,11.6666667 14.5,12 C14.5,12.3333333 14.3333333,12.6666667 14,13 L13.5,13 C13.2238576,13 13,13.2238576 13,13.5 L13,14 L13,14 C12.6666667,14.3333333 12.3333333,14.5 12,14.5 C11.6666667,14.5 11.3333333,14.3333333 11,14 L11,13.5 C11,13.2238576 10.7761424,13 10.5,13 L10,13 L10,13 C9.66666667,12.6666667 9.5,12.3333333 9.5,12 C9.5,11.6666667 9.66666667,11.3333333 10,11 L10.5,11 C10.7761424,11 11,10.7761424 11,10.5 Z" id="Rectangle" fill="url(#radialGradient-5)"></path>
+    </g>
+</svg>
